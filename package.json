@@ -31,7 +31,7 @@
     "test:run": "playwright test"
   },
   "dependencies": {
-    "@arcjet/decorate": "1.0.0-beta.8",
+    "@arcjet/decorate": "1.0.0-beta.11",
     "@arcjet/env": "^1.0.0-beta.8",
     "@arcjet/ip": "1.0.0-beta.8",
     "@arcjet/next": "1.0.0-beta.8",
